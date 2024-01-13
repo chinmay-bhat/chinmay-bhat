@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning about Apache Iceberg, Open Data Lakehouse
 - 👯 I’m looking to contribute to open source ML/Data infra tools/technologies
+- ⌨️ Python, Java, C#
 <!--
 **chinmay-bhat/chinmay-bhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
